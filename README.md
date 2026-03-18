@@ -17,7 +17,7 @@ Worked on reducing the support burden on the Data org by improving documentation
 
 **Automating the capitalization process**
 
-The monthly capitalization report — required to be submitted through the Finance portal — used to demand significant manual effort from multiple teams. I led the automation of this process, streamlining data collection and submission so that teams could redirect their energy toward higher-impact work within their projects. Built a lightweight AI agent to automate the collection of engagement metrics for a cross-team program. What used to take roughly a week of manual effort now runs in about two hours — pulling data, computing participation rates per member, and surfacing insights automatically.
+Built a lightweight AI agent to automate the collection of engagement metrics for a cross-team program. What used to take roughly a week of manual effort now runs in about two hours — pulling data, computing participation rates per member, and surfacing insights automatically.
 
 **Reducing critical incidents across the Data Platform**
 
