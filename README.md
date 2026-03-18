@@ -2,7 +2,7 @@
 
 **Product builder (aka Technical Product Manager) working at the intersection of Product, Engineering, and Operations.**
 
-I'm currently part of a **Data Infra Core & SRE** team at [Nubank](https://nubank.com.br), where I operate as the product person — shaping priorities, driving initiatives, and occasionally getting my hands dirty with automation. I came from a consumer-facing product background (cards & payments) and transitioned into platform engineering, which gave me a unique lens on how internal tooling and infrastructure decisions ripple out to end users.
+I'm currently part of a **Data Infra Core & SRE** team at [Nubank](https://nubank.com.br), where I operate as the product person: shaping priorities, driving initiatives, and occasionally getting my hands dirty with automation. I came from a consumer-facing product background (cards & payments) and transitioned into platform engineering, which gave me a unique lens on how internal tooling and infrastructure decisions ripple out to end users.
 
 ---
 
