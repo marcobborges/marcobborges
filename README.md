@@ -9,7 +9,7 @@ I'm currently part of a **Data Infra Core & SRE** team at [Nubank](https://nuban
 ### What I've been up to
 
 
-**Small automations, big impact**: Working in a team with significant tech debt and KTLO overhead, I found room to lead small but meaningful automations on my own — using [Cursor](https://cursor.com) and [Claude](https://claude.ai) to prototype and ship quickly, without waiting for a full engineering cycle: 
+**Small automations, big impact**: Working in a team with significant tech debt and KTLO overhead, I found room to lead small but meaningful automations on my own: using [Cursor](https://cursor.com) and [Claude](https://claude.ai) to prototype and ship quickly, without waiting for a full engineering cycle: 
 
 **Cutting support ticket volume through better self-service**
 
