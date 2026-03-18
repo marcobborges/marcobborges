@@ -2,11 +2,7 @@
 
 **Product builder (aka Technical Product Manager) working at the intersection of Product, Engineering, and Operations.**
 
-I'm a Product Manager at [Nubank](https://nubank.com.br), currently embedded in the **Data Infra Core & SRE** team — one of Latin America's largest fintechs serving 100M+ customers. I drive the product vision for data infrastructure, translating the challenges engineers face when building, deploying, and operating data products into platform improvements that scale.
-
-Before Data Infra, I spent nearly 3 years in the **Credit Card** business unit, leading cross-functional initiatives involving Engineering, Compliance, and other platform teams — including regulatory readiness for international expansion. That consumer-facing background gave me a sharp sense for how platform decisions ultimately ripple out to end users.
-
-I also bring an MBA in Finance and a background in risk, audit, and controllership from my earlier career in banking — which means I naturally think about governance, compliance, and financial controls alongside product strategy.
+I'm currently part of a **Data Infra Core & SRE** team at [Nubank](https://nubank.com.br), where I operate as the product person — shaping priorities, driving initiatives, and occasionally getting my hands dirty with automation. I came from a consumer-facing product background (cards & payments) and transitioned into platform engineering, which gave me a unique lens on how internal tooling and infrastructure decisions ripple out to end users.
 
 ---
 
