@@ -31,7 +31,7 @@ For personal projects, I've also been exploring [Lovable](https://lovable.dev) t
 
 ### How I think about work
 
-I believe the best product work in platform teams comes from **deeply understanding the pain** of your internal users, then finding the shortest path to relief — whether that's a policy change, a doc rewrite, or a quick automation. Not everything needs to be a quarter-long project.
+I believe the best product work in platform teams comes from **deeply understanding the pain** of your internal users, then finding the shortest path to relief, whether that's a policy change, a doc rewrite, or a quick automation. Not everything needs to be a quarter-long project.
 
 ---
 
