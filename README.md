@@ -8,11 +8,8 @@ I'm currently part of a **Data Infra Core & SRE** team at [Nubank](https://nuban
 
 ### What I've been up to
 
-Over the past two years in a highly technical platform team, I've had the chance to lead some initiatives I'm proud of:
 
-**Reducing critical incidents across the Data Platform**
-
-Led an effort to dramatically reduce Sev-1 and Sev-2 incidents that were impacting machine learning models — and indirectly, customers. This involved rethinking how PRs were promoted to production for dataset changes, strengthening deployment controls, and driving accountability across teams. We went from **17 Sev-1/Sev-2 incidents in Jan 2024** down to **1–2 per month by Dec 2024** — a meaningfully better reliability posture for the entire data platform.
+**Small automations, big impact**: Working in a team with significant tech debt and KTLO overhead, I found room to lead small but meaningful automations on my own — using [Cursor](https://cursor.com) and [Claude](https://claude.ai) to prototype and ship quickly, without waiting for a full engineering cycle: 
 
 **Cutting support ticket volume through better self-service**
 
@@ -22,12 +19,13 @@ Worked on reducing the support burden on the Data org by improving documentation
 
 The monthly capitalization report — required to be submitted through the Finance portal — used to demand significant manual effort from multiple teams. I led the automation of this process, streamlining data collection and submission so that teams could redirect their energy toward higher-impact work within their projects. Built a lightweight AI agent to automate the collection of engagement metrics for a cross-team program. What used to take roughly a week of manual effort now runs in about two hours — pulling data, computing participation rates per member, and surfacing insights automatically.
 
-**Archipelago Program**
-Had the opportunity to participate in the Archipelago program — a company-wide initiative to deprecate the centralized data monorepo in favor of multi-repository ownership, giving business units more autonomy over their data pipelines and reinforcing the data mesh culture Nubank is building toward.
+**Reducing critical incidents across the Data Platform**
 
-**Small automations, big impact**
+Led an effort to dramatically reduce Sev-1 and Sev-2 incidents that were impacting machine learning models — and indirectly, customers. This involved rethinking how PRs were promoted to production for dataset changes, strengthening deployment controls, and driving accountability across teams. We went from 17 Sev-1/Sev-2 incidents in Jan 2024 down to 1–2 per month by Dec 2024 — a meaningfully better reliability posture for the entire data platform.
 
-Working in a team with significant tech debt and KTLO overhead, I found room to lead small but meaningful automations on my own — using [Cursor](https://cursor.com) and [Claude](https://claude.ai) to prototype and ship quickly, without waiting for a full engineering cycle. For personal projects, I've also been exploring [Lovable](https://lovable.dev) to build things fast.
+
+
+For personal projects, I've also been exploring [Lovable](https://lovable.dev) to build things fast.
 
 ---
 
